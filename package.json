@@ -33,18 +33,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "E-Market is the Web application based on React Design and Developed by [Anmol Noor](https://github.com/AnmolNoor) With ❤️.",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jayant-ism/EMARKET.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jayant-ism/EMARKET/issues"
-  },
-  "homepage": "https://github.com/jayant-ism/EMARKET#readme"
+  }
 }
